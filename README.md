@@ -10,4 +10,4 @@ Desenonvimento de blog para prática de React, Node e MySQL
 - MySQL
 
 ## Status
-- [x] Concluído - 12/04/2021
+- [x] Concluído - 12/06/2021
